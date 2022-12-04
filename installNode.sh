@@ -14,3 +14,4 @@ echo -e "\nexport NODE_HOME=/home/$USER/Apps/node" >> $HOME/.bashrc
 source $HOME/.bashrc
 echo -e "\nexport PATH=\$NODE_HOME/bin:\$PATH" >> $HOME/.bashrc
 source $HOME/.bashrc
+
