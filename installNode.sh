@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ ! -d /home/$USER/Downloads ]; then
-  mkdir -p /home/echo/Downloads;
+  mkdir -p /home/$USER/Downloads;
 fi
 if [ ! -d /home/$USER/Apps ]; then
   mkdir -p /home/$USER/Apps;
